@@ -1,0 +1,4 @@
+#
+#Sun Dec 13 18:19:17 MSK 2020
+interface\ PackageInjector.TestInterfaceOne=PackageInjector.ClassOne
+interface\ PackageInjector.TestInterfaceTwo=PackageInjector.ClassTwo
